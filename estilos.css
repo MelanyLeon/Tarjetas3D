@@ -74,15 +74,15 @@
 }
 
 .lado-B h3 {
-    padding-top: 5rem;
+    padding-top: 0.2rem;
 }
 
 .lado-A{
-    background-color:rgb(44, 121, 67);
+    background-color:rgb(99, 98, 98);
 }
 
 .lado-B{
-    background-color: rgba(56, 54, 54, 0);
+    background-color: rgba(110, 110, 110, 0.849);
     transform: rotateY(180deg);
 }
 
